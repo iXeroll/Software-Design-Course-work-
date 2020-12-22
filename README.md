@@ -1,1 +1,2 @@
-# Software-Design-Course-work-
+# Software Design Course work
+Checkers/Draughts game prototype for University
